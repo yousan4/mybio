@@ -1,0 +1,65 @@
+.img-fluid{
+    width: 180px;
+}
+#more{
+    background-image: url(./snow.webp);height: 490px; width: auto;
+    font-weight: 900;
+    color: rgb(10, 3, 3);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: static;
+    border: 3px solid #160604;border-radius: 5px;
+    box-sizing: border-box;
+    clear: both;
+    overflow: auto;
+    background-repeat: round;
+}
+.img-fluid{
+    border: 3px solid;border-color: rgb(198, 200, 202);
+    text-align:center
+}
+#bio{
+    text-align: center;   
+}
+.pinfos{
+font-weight: 900;
+font-size:large ;
+margin-top: 0;
+}
+.bi{
+    background-image: url(./7be9.avif);
+    background-repeat: no-repeat;
+    position: fixed;
+    margin: 230px;
+    margin-top: 0px;
+}
+.fix{ margin: 80px;margin-bottom: 0px;
+}
+.bckgrnd{
+   background-image: url(./balck.jpg);
+   border-radius: 10px;
+   margin-left:-10px;
+}
+.Youssef{
+   font-weight:900 ;color: rgba(165, 167, 153, 0.87);
+}
+.goals{
+    font-weight: bold;
+    background-image: url(./photo-15.avif);
+    width: 1000px;
+    border: 3px solid;border-radius: 10px;
+    padding:5px;
+    margin-left: 2px;
+    text-align: center;
+    margin: 20px;
+    list-style-position: inside;
+    font-size: x-large;
+    color: rgb(0, 0, 0);
+}
+.goaltype{
+    color: rgb(213, 213, 231);
+    font-weight: 500;
+    font-size: -small;
+}
+.ul{
+    text-decoration: overline;
+}
